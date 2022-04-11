@@ -13,8 +13,4 @@
 - 👩🏻‍🎓 I'm a fourth-year computer systems engineering student @ University of Auckland
 - 💼 Currently working as a computer science/robotics teacher for primary/intermediate school kids
 - 🌱 Learning web development in my free time
-- 💬 Ask me about travel, cats and pop music✨
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brookeknowles&show_icons=true&locale=en&layout=compact" alt="brookeknowles" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brookeknowles&show_icons=true&locale=en" alt="brookeknowles" /></p>
+- 💬 Ask me about travel, cats, pop music✨
