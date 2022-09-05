@@ -12,6 +12,8 @@
 
 ### About Me 😄
 - 👩🏻‍🎓 4th year computer systems engineering student @ University of Auckland
+- 💼 Computer science, robotics, and mathematics tutor for kids aged 5-15
+- 🌱 Currently learning web development
+- 💡 Interested in data analysis and pop music, so most projects incorporate one of these
 
-### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brookeknowles&theme=ocean_dark&layout=compact"/>
